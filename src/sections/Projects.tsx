@@ -50,6 +50,7 @@ const portfolioProjects = [
 export const ProjectsSection = () => {
   return (
     <section className="pb-16 lg:py-24">
+      
       {/* container wrapper */}
 
       <div className="container">

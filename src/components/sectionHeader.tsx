@@ -1,4 +1,4 @@
-const sectionHeader = ({
+const SectionHeader = ({
     title,
     eyebrow,
     description
@@ -28,4 +28,4 @@ const sectionHeader = ({
      );
 }
  
-export default sectionHeader;
+export default SectionHeader;
