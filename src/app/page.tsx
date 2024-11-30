@@ -12,7 +12,7 @@ export default function Home() {
       <HeroSection />
       <ProjectsSection />
       <TapeSection />
-      <TestimonialsSection />
+      {/* <TestimonialsSection /> */}
       <AboutSection />
     </div>
   );
